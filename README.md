@@ -5,8 +5,7 @@
 2. create a virtual environment (`venv [name of environment]`)
 3. activate environment (`[env name]/Scripts/activate`)
 4. add dependencies (`pip install -r requirements.txt`)
-5. now simply run, you can run "snake.py" if you feel like playing
-   the game yourself
+5. now simply run the "agent.py"
 
 ---
 
