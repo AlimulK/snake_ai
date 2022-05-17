@@ -9,6 +9,10 @@
 
 ---
 
+A pycache folder and model folder will be generated
+
+---
+
 [Snake game][1] source
 
 [1]:https://github.com/python-engineer/python-fun/blob/master/snake-pygame/snake_game.py
